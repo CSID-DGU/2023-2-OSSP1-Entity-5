@@ -1,0 +1,3530 @@
+[
+  {
+    "code": "A0",
+    "nearNodes": [
+      {
+        "code": "R79",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R34",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R38",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "A1",
+    "nearNodes": [
+      {
+        "code": "A0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R80",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "A2",
+    "nearNodes": [
+      {
+        "code": "A0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R79",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R80",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "A3",
+    "nearNodes": [
+      {
+        "code": "R33",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R34",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "B0",
+    "nearNodes": [
+      {
+        "code": "R43",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "B1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "B",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "B1",
+    "nearNodes": [
+      {
+        "code": "B0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "B2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R35",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "BB",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "BM",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "B2",
+    "nearNodes": [
+      {
+        "code": "B1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R29",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R48",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "BB",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "BM",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "C0",
+    "nearNodes": [
+      {
+        "code": "VC",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R49",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R39",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R37",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "C",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "C1",
+    "nearNodes": [
+      {
+        "code": "R50",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "I0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "VC",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "C",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "D0",
+    "nearNodes": [
+      {
+        "code": "R25",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "D1",
+    "nearNodes": [
+      {
+        "code": "R52",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "VI",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "D2",
+    "nearNodes": [
+      {
+        "code": "R64",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "D3",
+    "nearNodes": [
+      {
+        "code": "Q0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "D4",
+    "nearNodes": [
+      {
+        "code": "R70",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R72",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "D5",
+    "nearNodes": [
+      {
+        "code": "G0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "D6",
+    "nearNodes": [
+      {
+        "code": "R9",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R3",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "D7",
+    "nearNodes": [
+      {
+        "code": "R3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "D8",
+    "nearNodes": [
+      {
+        "code": "R1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "D9",
+    "nearNodes": [
+      {
+        "code": "R8",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "E0",
+    "nearNodes": [
+      {
+        "code": "E2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "P1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R62",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "VE",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "E1",
+    "nearNodes": [
+      {
+        "code": "E0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R53",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "E2",
+    "nearNodes": [
+      {
+        "code": "P1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R64",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "E3",
+    "nearNodes": [
+      {
+        "code": "R53",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "VE",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "E4",
+    "nearNodes": [
+      {
+        "code": "E3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "VE",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R54",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "E5",
+    "nearNodes": [
+      {
+        "code": "I1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R51",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R78",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "E6",
+    "nearNodes": [
+      {
+        "code": "I0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R78",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "F0",
+    "nearNodes": [
+      {
+        "code": "R41",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "F",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "F1",
+    "nearNodes": [
+      {
+        "code": "R57",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "F",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "F2",
+    "nearNodes": [
+      {
+        "code": "R42",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "F",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "FF0",
+    "nearNodes": [
+      {
+        "code": "R36",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "FF1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "FF",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "FF1",
+    "nearNodes": [
+      {
+        "code": "R32",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "FF0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "FF",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "G0",
+    "nearNodes": [
+      {
+        "code": "R74",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "D5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "G",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "G1",
+    "nearNodes": [
+      {
+        "code": "R31",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "S0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "G2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "H0",
+    "nearNodes": [
+      {
+        "code": "R10",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R16",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R17",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "VH",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "H1",
+    "nearNodes": [
+      {
+        "code": "T1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "VH",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "H2",
+    "nearNodes": [
+      {
+        "code": "VH",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R48",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "I0",
+    "nearNodes": [
+      {
+        "code": "VI",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "C1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "I",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "I1",
+    "nearNodes": [
+      {
+        "code": "E5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "VI",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "I",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "I2",
+    "nearNodes": [
+      {
+        "code": "R51",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R52",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "I",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "J0",
+    "nearNodes": [
+      {
+        "code": "J1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R75",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "J1",
+    "nearNodes": [
+      {
+        "code": "R71",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "J2",
+    "nearNodes": [
+      {
+        "code": "R73",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "J3",
+    "nearNodes": [
+      {
+        "code": "R74",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "J4",
+    "nearNodes": [
+      {
+        "code": "G0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R75",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "K0",
+    "nearNodes": [
+      {
+        "code": "L0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R7",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "K1",
+    "nearNodes": [
+      {
+        "code": "VM",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R8",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "K2",
+    "nearNodes": [
+      {
+        "code": "K0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "K3",
+    "nearNodes": [
+      {
+        "code": "K0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "K4",
+    "nearNodes": [
+      {
+        "code": "K3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "K5",
+    "nearNodes": [
+      {
+        "code": "K4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K7",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "K6",
+    "nearNodes": [
+      {
+        "code": "M4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "K7",
+    "nearNodes": [
+      {
+        "code": "L2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "L0",
+    "nearNodes": [
+      {
+        "code": "K0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "L2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "L",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "L1",
+    "nearNodes": [
+      {
+        "code": "R5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "L",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "L2",
+    "nearNodes": [
+      {
+        "code": "L0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K7",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "L",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "M0",
+    "nearNodes": [
+      {
+        "code": "R10",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R16",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R11",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "M1",
+    "nearNodes": [
+      {
+        "code": "R10",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "M2",
+    "nearNodes": [
+      {
+        "code": "M0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "VM",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "M3",
+    "nearNodes": [
+      {
+        "code": "M6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "VM",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "M4",
+    "nearNodes": [
+      {
+        "code": "K6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "M5",
+    "nearNodes": [
+      {
+        "code": "M4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R12",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R8",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "MK",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "M6",
+    "nearNodes": [
+      {
+        "code": "R12",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R11",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R18",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "N0",
+    "nearNodes": [
+      {
+        "code": "R40",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R39",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "N1",
+    "nearNodes": [
+      {
+        "code": "R41",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "N2",
+    "nearNodes": [
+      {
+        "code": "R54",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R76",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "N3",
+    "nearNodes": [
+      {
+        "code": "R78",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "O0",
+    "nearNodes": [
+      {
+        "code": "R35",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R39",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R40",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R40",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R41",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R42",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R43",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "OO",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "P0",
+    "nearNodes": [
+      {
+        "code": "R66",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "P1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "P",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "P1",
+    "nearNodes": [
+      {
+        "code": "P0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R62",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "P",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "Q0",
+    "nearNodes": [
+      {
+        "code": "R65",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "D3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R64",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "Q",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R1",
+    "nearNodes": [
+      {
+        "code": "D7",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "D8",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R10",
+    "nearNodes": [
+      {
+        "code": "R47",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R9",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R16",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R11",
+    "nearNodes": [
+      {
+        "code": "R16",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M6",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R12",
+    "nearNodes": [
+      {
+        "code": "M5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R13",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R13",
+    "nearNodes": [
+      {
+        "code": "R14",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R12",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R18",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R14",
+    "nearNodes": [
+      {
+        "code": "R15",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R13",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R15",
+    "nearNodes": [
+      {
+        "code": "R16",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R14",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R16",
+    "nearNodes": [
+      {
+        "code": "H0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R10",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R11",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R15",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R17",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R17",
+    "nearNodes": [
+      {
+        "code": "R19",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R24",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R16",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R18",
+    "nearNodes": [
+      {
+        "code": "M6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R13",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R18C",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R19",
+    "nearNodes": [
+      {
+        "code": "T0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R21",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R17",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R19C",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R2",
+    "nearNodes": [
+      {
+        "code": "R3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R4",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R20",
+    "nearNodes": [
+      {
+        "code": "R7",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R21",
+    "nearNodes": [
+      {
+        "code": "T0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R19",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R17",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R22",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R22",
+    "nearNodes": [
+      {
+        "code": "R26",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R23",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "Y0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R21",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R23",
+    "nearNodes": [
+      {
+        "code": "R27",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R22",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R24",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R24",
+    "nearNodes": [
+      {
+        "code": "S0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R25",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R23",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R17",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R25",
+    "nearNodes": [
+      {
+        "code": "R24",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "D0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R26",
+    "nearNodes": [
+      {
+        "code": "R22",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R23",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R27",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R28",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R27",
+    "nearNodes": [
+      {
+        "code": "R26",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R23",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R28",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R31",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R28",
+    "nearNodes": [
+      {
+        "code": "R30",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R27",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R29",
+    "nearNodes": [
+      {
+        "code": "R30",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "Y0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "B2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R3",
+    "nearNodes": [
+      {
+        "code": "D6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "D7",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R30",
+    "nearNodes": [
+      {
+        "code": "R35",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R29",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R28",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R31",
+    "nearNodes": [
+      {
+        "code": "R32",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R27",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "G1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R32",
+    "nearNodes": [
+      {
+        "code": "W1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R31",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "FF1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R33",
+    "nearNodes": [
+      {
+        "code": "W1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R35",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A3",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R34",
+    "nearNodes": [
+      {
+        "code": "R35",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R35",
+    "nearNodes": [
+      {
+        "code": "R43",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "B1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R30",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R33",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R34",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R38",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "O0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R36",
+    "nearNodes": [
+      {
+        "code": "R37",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "FF0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R37",
+    "nearNodes": [
+      {
+        "code": "R80",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "C0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R36",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R38",
+    "nearNodes": [
+      {
+        "code": "R39",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R35",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "O0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R39",
+    "nearNodes": [
+      {
+        "code": "R38",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R79",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "C0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "O0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R40",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R4",
+    "nearNodes": [
+      {
+        "code": "D6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R40",
+    "nearNodes": [
+      {
+        "code": "R39",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "O0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R41",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R41",
+    "nearNodes": [
+      {
+        "code": "N1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R56",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "O0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R40",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R42",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "F0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R42",
+    "nearNodes": [
+      {
+        "code": "F2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R41",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R44",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R43",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "O0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R43",
+    "nearNodes": [
+      {
+        "code": "B0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R35",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "O0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R42",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R44",
+    "nearNodes": [
+      {
+        "code": "R42",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R45",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R45",
+    "nearNodes": [
+      {
+        "code": "R44",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R46",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R46",
+    "nearNodes": [
+      {
+        "code": "R45",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R47",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R48",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R47",
+    "nearNodes": [
+      {
+        "code": "R10",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R46",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R48",
+    "nearNodes": [
+      {
+        "code": "B2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R49",
+    "nearNodes": [
+      {
+        "code": "R50",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "C0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R49C",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R5",
+    "nearNodes": [
+      {
+        "code": "R6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "L1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R7",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "D6",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R50",
+    "nearNodes": [
+      {
+        "code": "R78",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R49",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "C1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R51",
+    "nearNodes": [
+      {
+        "code": "R53",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "I2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E5",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R52",
+    "nearNodes": [
+      {
+        "code": "D1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "I2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R53",
+    "nearNodes": [
+      {
+        "code": "E3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R51",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R54",
+    "nearNodes": [
+      {
+        "code": "R55",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R78",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R55",
+    "nearNodes": [
+      {
+        "code": "R54",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R60",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R56",
+    "nearNodes": [
+      {
+        "code": "R57",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R41",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R76",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R57",
+    "nearNodes": [
+      {
+        "code": "R56",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R58",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "F1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R58",
+    "nearNodes": [
+      {
+        "code": "R77",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R59",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "U0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R57",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R59",
+    "nearNodes": [
+      {
+        "code": "R60",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R58",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R76",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "U0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R6",
+    "nearNodes": [
+      {
+        "code": "K2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "D6",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R60",
+    "nearNodes": [
+      {
+        "code": "R55",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R59",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R61",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R62",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R61",
+    "nearNodes": [
+      {
+        "code": "R63",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R60",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R62",
+    "nearNodes": [
+      {
+        "code": "P1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R63",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R60",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R63",
+    "nearNodes": [
+      {
+        "code": "R67",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "U0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R62",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R61",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R64",
+    "nearNodes": [
+      {
+        "code": "Q0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "D2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R65",
+    "nearNodes": [
+      {
+        "code": "R66",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "Q0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R66",
+    "nearNodes": [
+      {
+        "code": "Z0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R67",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R65",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "P0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R67",
+    "nearNodes": [
+      {
+        "code": "XB",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "Z0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R66",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R68",
+    "nearNodes": [
+      {
+        "code": "Z0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R69",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R71",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R67",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R69",
+    "nearNodes": [
+      {
+        "code": "R70",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R68",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R7",
+    "nearNodes": [
+      {
+        "code": "R20",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R5",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R70",
+    "nearNodes": [
+      {
+        "code": "D4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R69",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R71",
+    "nearNodes": [
+      {
+        "code": "XA",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "XB",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R68",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R72",
+    "nearNodes": [
+      {
+        "code": "D4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R73",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R73",
+    "nearNodes": [
+      {
+        "code": "R72",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R74",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R74",
+    "nearNodes": [
+      {
+        "code": "R73",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "G0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R75",
+    "nearNodes": [
+      {
+        "code": "R77",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J4",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R76",
+    "nearNodes": [
+      {
+        "code": "R59",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R56",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R76C",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R77",
+    "nearNodes": [
+      {
+        "code": "R58",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R75",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R78",
+    "nearNodes": [
+      {
+        "code": "N3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R54",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R50",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R79",
+    "nearNodes": [
+      {
+        "code": "R39",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R8",
+    "nearNodes": [
+      {
+        "code": "D9",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R80",
+    "nearNodes": [
+      {
+        "code": "A1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R37",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R9",
+    "nearNodes": [
+      {
+        "code": "R10",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "D6",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "S0",
+    "nearNodes": [
+      {
+        "code": "G1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R24",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "S",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "T0",
+    "nearNodes": [
+      {
+        "code": "T1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R19",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R21",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "T",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "T1",
+    "nearNodes": [
+      {
+        "code": "T0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "T",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "U0",
+    "nearNodes": [
+      {
+        "code": "R63",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R59",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R58",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "VC",
+    "nearNodes": [
+      {
+        "code": "C1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "C0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "VE",
+    "nearNodes": [
+      {
+        "code": "E0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E4",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "VI",
+    "nearNodes": [
+      {
+        "code": "D1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "I1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "I0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "W0",
+    "nearNodes": [
+      {
+        "code": "R80",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "W1",
+    "nearNodes": [
+      {
+        "code": "R33",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R32",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "W2",
+    "nearNodes": [
+      {
+        "code": "R80",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "FF0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "XA",
+    "nearNodes": [
+      {
+        "code": "R71",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "XB",
+    "nearNodes": [
+      {
+        "code": "R71",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R67",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "X",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "Y0",
+    "nearNodes": [
+      {
+        "code": "R29",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R22",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "Y",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "VH",
+    "nearNodes": [
+      {
+        "code": "H0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "Z0",
+    "nearNodes": [
+      {
+        "code": "R67",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R66",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R68",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "Z",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "VM",
+    "nearNodes": [
+      {
+        "code": "M2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "A",
+    "nearNodes": [
+      {
+        "code": "A0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "A3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "R34",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "BB",
+    "nearNodes": [
+      {
+        "code": "B0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "BM",
+    "nearNodes": [
+      {
+        "code": "B1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "B2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "C",
+    "nearNodes": [
+      {
+        "code": "C0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "C1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "E",
+    "nearNodes": [
+      {
+        "code": "E0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "E6",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "F",
+    "nearNodes": [
+      {
+        "code": "F0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "F1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "F2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "FF",
+    "nearNodes": [
+      {
+        "code": "FF0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "FF1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "H",
+    "nearNodes": [
+      {
+        "code": "H0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "H2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "I",
+    "nearNodes": [
+      {
+        "code": "I0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "I1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "I2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "J",
+    "nearNodes": [
+      {
+        "code": "J0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "J4",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "K",
+    "nearNodes": [
+      {
+        "code": "K0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K4",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K5",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K6",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "K7",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "L",
+    "nearNodes": [
+      {
+        "code": "L0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "L1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "L2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "M",
+    "nearNodes": [
+      {
+        "code": "M0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M3",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "M4",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "MK",
+    "nearNodes": [
+      {
+        "code": "M5",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "G",
+    "nearNodes": [
+      {
+        "code": "G0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "N",
+    "nearNodes": [
+      {
+        "code": "N0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N2",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "N3",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "OO",
+    "nearNodes": [
+      {
+        "code": "O0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "P",
+    "nearNodes": [
+      {
+        "code": "P0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "P1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "Q",
+    "nearNodes": [
+      {
+        "code": "Q0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "S",
+    "nearNodes": [
+      {
+        "code": "S0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "T",
+    "nearNodes": [
+      {
+        "code": "T0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "T1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "W",
+    "nearNodes": [
+      {
+        "code": "W0",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W1",
+        "Info": "Info 추가해야함"
+      },
+      {
+        "code": "W2",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "Y",
+    "nearNodes": [
+      {
+        "code": "Y0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "Z",
+    "nearNodes": [
+      {
+        "code": "Z0",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "X",
+    "nearNodes": [
+      {
+        "code": "XB",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "G2",
+    "nearNodes": [
+      {
+        "code": "G1",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R18C",
+    "nearNodes": [
+      {
+        "code": "R18",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R19C",
+    "nearNodes": [
+      {
+        "code": "R19",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R49C",
+    "nearNodes": [
+      {
+        "code": "R49",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  },
+  {
+    "code": "R76C",
+    "nearNodes": [
+      {
+        "code": "R76",
+        "Info": "Info 추가해야함"
+      }
+    ]
+  }
+]
