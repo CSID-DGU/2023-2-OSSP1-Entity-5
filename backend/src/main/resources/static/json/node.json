@@ -29885,19 +29885,15 @@
   },
   {
     "code": "XB",
-    "centralNode": null,
+    "centralNode": "XB",
     "nearNodes": [
       {
         "code": "R71",
-        "weight": 144.31171017487364
+        "weight": 2.4
       },
       {
         "code": "R67",
-        "weight": 72.67798381466875
-      },
-      {
-        "code": "X",
-        "weight": 0.01
+        "weight": 1.5
       }
     ],
     "heuristic": [
@@ -30069,19 +30065,15 @@
   },
   {
     "code": "Y0",
-    "centralNode": null,
+    "centralNode": "Y",
     "nearNodes": [
       {
         "code": "R29",
-        "weight": 129.69785847256875
+        "weight": 6.91866
       },
       {
         "code": "R22",
-        "weight": 153.7884444248496
-      },
-      {
-        "code": "Y",
-        "weight": 0.01
+        "weight": 9.0358
       }
     ],
     "heuristic": [
@@ -30253,19 +30245,19 @@
   },
   {
     "code": "VH",
-    "centralNode": null,
+    "centralNode": "H",
     "nearNodes": [
       {
         "code": "H0",
-        "weight": 118.41
+        "weight": 2.5
       },
       {
         "code": "H1",
-        "weight": 118.41
+        "weight": 1.5
       },
       {
         "code": "H2",
-        "weight": 41.36
+        "weight": 1.66
       }
     ],
     "heuristic": [
@@ -30437,23 +30429,19 @@
   },
   {
     "code": "Z0",
-    "centralNode": null,
+    "centralNode": "Z",
     "nearNodes": [
       {
         "code": "R67",
-        "weight": 83.01845198691223
+        "weight": 0.82
       },
       {
         "code": "R66",
-        "weight": 57.30931588109903
+        "weight": 1.7
       },
       {
         "code": "R68",
-        "weight": 71.28979316008231
-      },
-      {
-        "code": "Z",
-        "weight": 0.01
+        "weight": 1.6
       }
     ],
     "heuristic": [
@@ -35385,7 +35373,7 @@
   },
   {
     "code": "G2",
-    "centralNode": "O",
+    "centralNode": "G2",
     "nearNodes": [
       {
         "code": "G1",
@@ -35561,7 +35549,7 @@
   },
   {
     "code": "R18C",
-    "centralNode": "O",
+    "centralNode": "R18C",
     "nearNodes": [
       {
         "code": "R18",
@@ -35737,7 +35725,7 @@
   },
   {
     "code": "R19C",
-    "centralNode": "O",
+    "centralNode": "R19C",
     "nearNodes": [
       {
         "code": "R19",
@@ -35913,7 +35901,7 @@
   },
   {
     "code": "R49C",
-    "centralNode": "O",
+    "centralNode": "R49C",
     "nearNodes": [
       {
         "code": "R49",
@@ -36089,7 +36077,7 @@
   },
   {
     "code": "R76C",
-    "centralNode": "O",
+    "centralNode": "R76C",
     "nearNodes": [
       {
         "code": "R76",
