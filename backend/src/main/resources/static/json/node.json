@@ -29140,28 +29140,204 @@
     ]
   },
   {
-    "code": "W0",
-    "centralNode": null,
+    "code": "WW",
+    "centralNode": "W",
     "nearNodes": [
       {
-        "code": "R80",
-        "weight": 180.95
-      },
-      {
-        "code": "A1",
-        "weight": 113.8898968220912
-      },
-      {
-        "code": "W2",
-        "weight": 175.78
+        "code": "W0",
+        "weight": 1.7
       },
       {
         "code": "W1",
-        "weight": 170.60999999999999
+        "weight": 3.4
+      },
+      {
+        "code": "W2",
+        "weight": 3.3
+      }
+    ],
+    "heuristic": [
+      {
+        "code": "A",
+        "h-weight": 31.432482631366597
+      },
+      {
+        "code": "BB",
+        "h-weight": 115.60196353373053
+      },
+      {
+        "code": "BM",
+        "h-weight": 90.72452860321765
+      },
+      {
+        "code": "C",
+        "h-weight": 95.0442873177462
+      },
+      {
+        "code": "D0",
+        "h-weight": 308.764335254481
+      },
+      {
+        "code": "D1",
+        "h-weight": 220.0137246870807
+      },
+      {
+        "code": "D2",
+        "h-weight": 274.6017083889217
+      },
+      {
+        "code": "D3",
+        "h-weight": 313.7021160194753
+      },
+      {
+        "code": "D4",
+        "h-weight": 367.0405308563787
+      },
+      {
+        "code": "D5",
+        "h-weight": 284.6566177909195
+      },
+      {
+        "code": "D6",
+        "h-weight": 351.40174912584155
+      },
+      {
+        "code": "D7",
+        "h-weight": 479.3722180022685
+      },
+      {
+        "code": "D8",
+        "h-weight": 434.94664864389784
+      },
+      {
+        "code": "D9",
+        "h-weight": 319.5100095720124
+      },
+      {
+        "code": "E",
+        "h-weight": 187.13087432623277
+      },
+      {
+        "code": "F",
+        "h-weight": 149.2576464550389
+      },
+      {
+        "code": "FF",
+        "h-weight": 53.219491646480456
+      },
+      {
+        "code": "G",
+        "h-weight": 270.1988386872687
+      },
+      {
+        "code": "G2",
+        "h-weight": 123.0191709814887
+      },
+      {
+        "code": "H",
+        "h-weight": 169.7207237659873
+      },
+      {
+        "code": "I",
+        "h-weight": 143.6802054058324
+      },
+      {
+        "code": "J",
+        "h-weight": 318.14796325257834
+      },
+      {
+        "code": "K",
+        "h-weight": 289.99200212200606
+      },
+      {
+        "code": "L",
+        "h-weight": 333.61525324900634
+      },
+      {
+        "code": "M",
+        "h-weight": 238.72429712289994
+      },
+      {
+        "code": "MK",
+        "h-weight": 272.03837339421557
+      },
+      {
+        "code": "N",
+        "h-weight": 127.33436063708226
+      },
+      {
+        "code": "P",
+        "h-weight": 270.46806330251604
+      },
+      {
+        "code": "Q",
+        "h-weight": 304.3812350234849
+      },
+      {
+        "code": "R18C",
+        "h-weight": 220.57817185839818
+      },
+      {
+        "code": "R19C",
+        "h-weight": 161.97417126036214
+      },
+      {
+        "code": "R20",
+        "h-weight": 310.5082391262107
+      },
+      {
+        "code": "R49C",
+        "h-weight": 97.5289111936296
+      },
+      {
+        "code": "R76C",
+        "h-weight": 170.23472613791594
+      },
+      {
+        "code": "S",
+        "h-weight": 231.28664257213595
+      },
+      {
+        "code": "T",
+        "h-weight": 145.90681783901437
       },
       {
         "code": "W",
-        "weight": 0.01
+        "h-weight": 12.186443340095165
+      },
+      {
+        "code": "X",
+        "h-weight": 309.19075146353504
+      },
+      {
+        "code": "XA",
+        "h-weight": 341.86788821758114
+      },
+      {
+        "code": "Y",
+        "h-weight": 115.26745895705315
+      },
+      {
+        "code": "Z",
+        "h-weight": 327.1558151523643
+      }
+    ]
+  },
+  {
+    "code": "W0",
+    "centralNode": "W",
+    "nearNodes": [
+      {
+        "code": "R80",
+        "weight": 3.4
+      },
+      {
+        "code": "A1",
+        "weight": 2.6
+      },
+      {
+        "code": "WW",
+        "weight": 0.7
       }
     ],
     "heuristic": [
@@ -29333,23 +29509,19 @@
   },
   {
     "code": "W1",
-    "centralNode": null,
+    "centralNode": "W",
     "nearNodes": [
       {
         "code": "R33",
-        "weight": 108.27090212502031
+        "weight": 1.5
       },
       {
-        "code": "W0",
-        "weight": 170.60999999999999
+        "code": "WW",
+        "weight": 3.4
       },
       {
         "code": "R32",
-        "weight": 138.42337543944495
-      },
-      {
-        "code": "W",
-        "weight": 0.01
+        "weight": 4.2483
       }
     ],
     "heuristic": [
@@ -29521,23 +29693,19 @@
   },
   {
     "code": "W2",
-    "centralNode": null,
+    "centralNode": "W",
     "nearNodes": [
       {
         "code": "R80",
-        "weight": 82.72
+        "weight": 1.2
       },
       {
-        "code": "W0",
-        "weight": 175.78
+        "code": "WW",
+        "weight": 3.3
       },
       {
         "code": "FF0",
-        "weight": 155.2499444814521
-      },
-      {
-        "code": "W",
-        "weight": 0.01
+        "weight": 33.6
       }
     ],
     "heuristic": [
@@ -29709,11 +29877,11 @@
   },
   {
     "code": "XA",
-    "centralNode": null,
+    "centralNode": "XA",
     "nearNodes": [
       {
         "code": "R71",
-        "weight": 114.03917762776246
+        "weight": 7.1
       }
     ],
     "heuristic": [
