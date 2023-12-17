@@ -36,7 +36,7 @@ public class AStarAlgorithm {
             // 도착지 후보 중 하나에 도달하면 종료
             if (finishNodes.contains(currentNode.getCode())) {
                 // 도착한 노드가 도착지 후보 중 하나이면 바로 반환
-                return reconstructPath(currentNode);
+                return reconstructPath(currentNode, start);
             }
 
             // 현재 노드의 이웃 노드들을 탐색
@@ -44,12 +44,13 @@ public class AStarAlgorithm {
                 String neighborCode = neighborNode.getCode();
                 double edgeWeight = neighborNode.getWeight();
 
+
                 // 새로운 gScore 계산
                 double tentativeGScore = gScoreMap.get(currentNode.getCode()) + edgeWeight;
 
                 // 각 도착지 후보에 대한 휴리스틱 계산
                 for (String finishNode : finishNodes) {
-                    double heuristicValue = heuristic(nodes, neighborCode, finish);
+                    double heuristicValue = heuristic(nodes, neighborCode, finishNode);
 
                     // 새로운 f 값 계산 (g + h)
                     double fScore = tentativeGScore + heuristicValue;
@@ -73,14 +74,19 @@ public class AStarAlgorithm {
     }
 
     // 최단 경로를 직접 추적하는 메서드
-    private List<String> reconstructPath(Node lastNode) {
+    private List<String> reconstructPath(Node lastNode, String startNodeCode) {
         List<String> shortestPath = new ArrayList<>();
         String currentNodeCode = lastNode.getCode();
 
         // 역으로 추적하여 최단 경로 찾기
         while (currentNodeCode != null) {
             shortestPath.add(currentNodeCode);
+            if(currentNodeCode.equals(startNodeCode))
+            {
+                break;
+            }
             currentNodeCode = previousNodeMap.get(currentNodeCode);
+
         }
 
         // 경로 뒤집기
@@ -91,7 +97,6 @@ public class AStarAlgorithm {
     // 휴리스틱 함수 구현
     private double heuristic(Node[] nodes, String currentNodeCode, String finishNode) {
         Node currentNode = getNodeByCode(nodes, currentNodeCode);
-
         // 도착지 코드에 해당하는 휴리스틱 값을 찾기
         for (Node.HeuristicNode heuristicNode : currentNode.getHeuristic()) {
             if (heuristicNode.getCode().equals(finishNode)) {
