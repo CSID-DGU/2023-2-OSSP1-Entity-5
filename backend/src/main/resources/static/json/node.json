@@ -19579,19 +19579,19 @@
     "nearNodes": [
       {
         "code": "R39",
-        "weight": 165.44
+        "weight": 3.372113
       },
       {
         "code": "N0",
-        "weight": 82.72
+        "weight": 1.516606
       },
       {
         "code": "O0",
-        "weight": 180.95
+        "weight": 3.718026
       },
       {
         "code": "R41",
-        "weight": 186.12
+        "weight": 3.707504
       }
     ],
     "heuristic": [
@@ -19769,7 +19769,7 @@
     "nearNodes": [
       {
         "code": "N1",
-        "weight": 67.21
+        "weight": 1.334039
       },
       {
         "code": "R56",
@@ -19777,19 +19777,19 @@
       },
       {
         "code": "O0",
-        "weight": 263.67
+        "weight": 5.231622
       },
       {
         "code": "R40",
-        "weight": 186.12
+        "weight": 3.707504
       },
       {
         "code": "R42",
-        "weight": 361.9
+        "weight": 7.059388
       },
       {
         "code": "F0",
-        "weight": 51.550497021263254
+        "weight": 1.592546
       }
     ],
     "heuristic": [
@@ -19967,11 +19967,11 @@
     "nearNodes": [
       {
         "code": "F2",
-        "weight": 51.7
+        "weight": 1.137863
       },
       {
         "code": "R41",
-        "weight": 361.9
+        "weight": 7.059388
       },
       {
         "code": "R44",
@@ -19979,11 +19979,11 @@
       },
       {
         "code": "R43",
-        "weight": 180.95
+        "weight": 3.719371
       },
       {
         "code": "O0",
-        "weight": 258.5
+        "weight": 5.0922
       }
     ],
     "heuristic": [
@@ -20161,19 +20161,19 @@
     "nearNodes": [
       {
         "code": "B0",
-        "weight": 36.19
+        "weight": 0.9382307
       },
       {
         "code": "R35",
-        "weight": 181.2496741076329
+        "weight": 3.706556
       },
       {
         "code": "O0",
-        "weight": 217.14
+        "weight": 4.292129
       },
       {
         "code": "R42",
-        "weight": 180.95
+        "weight": 3.719371
       }
     ],
     "heuristic": [
@@ -20355,7 +20355,7 @@
       },
       {
         "code": "R45",
-        "weight": 77.55
+        "weight": 1.670511
       }
     ],
     "heuristic": [
@@ -20533,11 +20533,11 @@
     "nearNodes": [
       {
         "code": "R44",
-        "weight": 77.55
+        "weight": 1.670511
       },
       {
         "code": "R46",
-        "weight": 170.60999999999999
+        "weight": 3.119598
       }
     ],
     "heuristic": [
@@ -20715,7 +20715,7 @@
     "nearNodes": [
       {
         "code": "R45",
-        "weight": 170.60999999999999
+        "weight": 3.119598
       },
       {
         "code": "R47",
@@ -21083,11 +21083,11 @@
     "nearNodes": [
       {
         "code": "B2",
-        "weight": 114.03917762776246
+        "weight": 8.745600
       },
       {
         "code": "H2",
-        "weight": 216.99002833503403
+        "weight": 2.39071
       }
     ],
     "heuristic": [
@@ -21269,7 +21269,7 @@
       },
       {
         "code": "C0",
-        "weight": 62.04
+        "weight": 1.037094
       },
       {
         "code": "R49C",
@@ -21451,19 +21451,19 @@
     "nearNodes": [
       {
         "code": "R6",
-        "weight": 93.06
+        "weight": 1.631152
       },
       {
         "code": "L1",
-        "weight": 67.21
+        "weight": 1.049317
       },
       {
         "code": "R7",
-        "weight": 165.44
+        "weight": 4.115354
       },
       {
         "code": "D6",
-        "weight": 201.48003286014819
+        "weight": 4.907708
       }
     ],
     "heuristic": [
