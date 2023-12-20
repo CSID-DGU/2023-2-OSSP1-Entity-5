@@ -1,7 +1,7 @@
 [
   {
     "code": "A0",
-    "centralNode": null,
+    "centralNode": "A",
     "nearNodes": [
       {
         "code": "R79",
@@ -22,10 +22,6 @@
       {
         "code": "R38",
         "weight": 2.073101
-      },
-      {
-        "code": "A",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -197,7 +193,7 @@
   },
   {
     "code": "A1",
-    "centralNode": null,
+    "centralNode": "A",
     "nearNodes": [
       {
         "code": "A0",
@@ -210,10 +206,6 @@
       {
         "code": "R80",
         "weight": 3.456769
-      },
-      {
-        "code": "A",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -385,7 +377,7 @@
   },
   {
     "code": "A2",
-    "centralNode": null,
+    "centralNode": "A",
     "nearNodes": [
       {
         "code": "A0",
@@ -398,10 +390,6 @@
       {
         "code": "R80",
         "weight": 2.487095
-      },
-      {
-        "code": "A",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -573,7 +561,7 @@
   },
   {
     "code": "A3",
-    "centralNode": null,
+    "centralNode": "A3",
     "nearNodes": [
       {
         "code": "R33",
@@ -586,10 +574,6 @@
       {
         "code": "W0",
         "weight": 3.752563
-      },
-      {
-        "code": "A",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -761,7 +745,7 @@
   },
   {
     "code": "B0",
-    "centralNode": null,
+    "centralNode": "null",
     "nearNodes": [
       {
         "code": "R43",
@@ -770,10 +754,6 @@
       {
         "code": "B1",
         "weight": 4.047457
-      },
-      {
-        "code": "B",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -1329,7 +1309,7 @@
   },
   {
     "code": "C0",
-    "centralNode": null,
+    "centralNode": "C",
     "nearNodes": [
       {
         "code": "VC",
@@ -1346,10 +1326,6 @@
       {
         "code": "R37",
         "weight": 6.007818
-      },
-      {
-        "code": "C",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -1521,7 +1497,7 @@
   },
   {
     "code": "C1",
-    "centralNode": null,
+    "centralNode": "C",
     "nearNodes": [
       {
         "code": "R50",
@@ -1534,10 +1510,6 @@
       {
         "code": "VC",
         "weight": 2.195816
-      },
-      {
-        "code": "C",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -3497,7 +3469,7 @@
   },
   {
     "code": "E0",
-    "centralNode": null,
+    "centralNode": "E",
     "nearNodes": [
       {
         "code": "E2",
@@ -3518,10 +3490,6 @@
       {
         "code": "VE",
         "weight": 3.526852
-      },
-      {
-        "code": "E",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -3693,7 +3661,7 @@
   },
   {
     "code": "E1",
-    "centralNode": null,
+    "centralNode": "E",
     "nearNodes": [
       {
         "code": "E0",
@@ -3702,10 +3670,6 @@
       {
         "code": "R53",
         "weight": 13.27538
-      },
-      {
-        "code": "E",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -3877,7 +3841,7 @@
   },
   {
     "code": "E2",
-    "centralNode": null,
+    "centralNode": "E",
     "nearNodes": [
       {
         "code": "P1",
@@ -3890,10 +3854,6 @@
       {
         "code": "E0",
         "weight": 1.614269
-      },
-      {
-        "code": "E",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -4065,7 +4025,7 @@
   },
   {
     "code": "E3",
-    "centralNode": null,
+    "centralNode": "E",
     "nearNodes": [
       {
         "code": "R53",
@@ -4082,10 +4042,6 @@
       {
         "code": "E5",
         "weight": 3.685648
-      },
-      {
-        "code": "E",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -4257,7 +4213,7 @@
   },
   {
     "code": "E4",
-    "centralNode": null,
+    "centralNode": "E",
     "nearNodes": [
       {
         "code": "E3",
@@ -4274,10 +4230,6 @@
       {
         "code": "E6",
         "weight": 4.180532
-      },
-      {
-        "code": "E",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -4449,7 +4401,7 @@
   },
   {
     "code": "E5",
-    "centralNode": null,
+    "centralNode": "E",
     "nearNodes": [
       {
         "code": "I1",
@@ -4470,10 +4422,6 @@
       {
         "code": "R78",
         "weight": 8.37986172559118
-      },
-      {
-        "code": "E",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -4645,7 +4593,7 @@
   },
   {
     "code": "E6",
-    "centralNode": null,
+    "centralNode": "E",
     "nearNodes": [
       {
         "code": "I0",
@@ -4662,10 +4610,6 @@
       {
         "code": "R78",
         "weight": 8.807352
-      },
-      {
-        "code": "E",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -4837,15 +4781,11 @@
   },
   {
     "code": "F0",
-    "centralNode": null,
+    "centralNode": "F",
     "nearNodes": [
       {
         "code": "R41",
         "weight": 1.592546
-      },
-      {
-        "code": "F",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -5017,15 +4957,11 @@
   },
   {
     "code": "F1",
-    "centralNode": null,
+    "centralNode": "F",
     "nearNodes": [
       {
         "code": "R57",
         "weight": 1.753781
-      },
-      {
-        "code": "F",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -5197,15 +5133,11 @@
   },
   {
     "code": "F2",
-    "centralNode": null,
+    "centralNode": "F",
     "nearNodes": [
       {
         "code": "R42",
         "weight": 1.137863
-      },
-      {
-        "code": "F",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -5377,7 +5309,7 @@
   },
   {
     "code": "FF0",
-    "centralNode": null,
+    "centralNode": "FF",
     "nearNodes": [
       {
         "code": "R36",
@@ -5390,10 +5322,6 @@
       {
         "code": "FF1",
         "weight": 4.135462
-      },
-      {
-        "code": "FF",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -5565,7 +5493,7 @@
   },
   {
     "code": "FF1",
-    "centralNode": null,
+    "centralNode": "FF",
     "nearNodes": [
       {
         "code": "R32",
@@ -5574,10 +5502,6 @@
       {
         "code": "FF0",
         "weight": 4.135462
-      },
-      {
-        "code": "FF",
-        "weight": 0.01
       }
     ],
     "heuristic": [
@@ -5749,7 +5673,7 @@
   },
   {
     "code": "G0",
-    "centralNode": null,
+    "centralNode": "G",
     "nearNodes": [
       {
         "code": "R74",
@@ -5762,10 +5686,6 @@
       {
         "code": "D5",
         "weight": 7.627284
-      },
-      {
-        "code": "G",
-        "weight": 0.01
       }
     ],
     "heuristic": [
